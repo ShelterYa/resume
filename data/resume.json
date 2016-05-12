@@ -1,110 +1,107 @@
 {
-    "avatar": "/resume/data/1.jpg",
+    "avatar": "/resume/data/shelter.png",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
-        "name": "唐杰英",
-        "description": "人生苦短，我用JavaScript",
+        "name": "羊锡添",
+        "description": "A Lazy Man",
         "school": "五邑大学",
-        "profession": "计算机科学与技术",
+        "profession": "电子信息工程(信息安全)",
         "sex": "男",
         "education" : "本科",
-        "workage": "2016届毕业",
-        "phone": "15088132354",
-        "email": "tonjayin@gmail.com"
+        "workage": "2018届毕业",
+        "phone": "18219111772",
+        "email": "2581318149@qq.com"
     },
     "Educations": [
         {
             "name": "五邑大学",
             "name_link": "http://www.wyu.edu.cn/",
-            "title": "本科 · 计算机科学与技术",
+            "title": "本科 · 电子信息工程(信息安全)",
             "icon": "https://avatars0.githubusercontent.com/u/6442809?v=3&s=200",
             "description": "",
-            "time": "2012-2016",
+            "time": "2014-2018",
             "location": "广东江门"
         }
     ],
     "social":[
         {
             "type": "github",
-            "link": "https://github.com/Jayin",
+            "link": "https://github.com/ShelterYa",
             "icon": ""
         },
         {
             "type": "weibo",
-            "link": "http://weibo.com/tjy273942569",
+            "link": "http://weibo.com/u/5585978627",
             "icon": ""
-        },
-        {
-            "type": "linkedin",
-            "link": "https://www.linkedin.com/pub/jayin-ton/100/85a/161",
-            "icon": ""
-        },
-        {
-            "type": "twitter",
-            "link": "https://twitter.com/Jayin_Ton",
-            "icon": "https://cdn1.iconfinder.com/data/icons/new_twitter_icon/491/bird_twitter_new_single.png"
         },
         {
             "type": "home",
-            "link": "http://jayinton.com",
+            "link": "http://blog.yangxitian.cn/",
             "icon": ""
         }
     ],
     "Awards": [
         {
-            "name": "五邑大学第十三届学术科技节之软件大赛一等奖 (蝉联2年第一)"
+            "name": "2014-2015年度泓善慈善奖学金"
         },
         {
-            "name": "蓝桥杯全国软件专业人才设计与创业大赛C/C++本科B组广东赛区一等奖，全国决赛三等奖"
+            "name": "2014-2015年度五邑大学新生奖学金"
         },
         {
-            "name": "第六届全国大学生网络商务创新应用大赛全国总决赛主题赛单项一等奖"
-        },
-        {
-            "name": "2013百度“掌上校园”优秀开发奖"
-        },
-        {
-            "name": "2013华南资讯杯广东省Java程序员竞赛三等奖"
+            "name": "2014-2015年度校二等奖学金"
         }
     ],
     "InternExperiences": [
         {
-            "name": "深圳三分线网络科技有限公司",
+            "name": "渴望实习中...",
             "name_link": "",
-            "title": "前端开发工程师",
+            "title": "",
             "icon": "",
-            "description": "负责微信html5创意广告微信网页开发，参与报喜鸟，淘宝，亚洲环保创新论坛等案例的开发",
-            "time": "2015.04 - 至今",
-            "location": "广东 深圳"
-        },
-        {
-            "name": "深圳百贝斯网络科技有限公司",
-            "name_link": "",
-            "title": "PHP Developer",
-            "icon": "",
-            "description": "基于OpenCart开源商城系统开发外贸商城",
-            "time": "2014.07 - 2014.08",
-            "location": "广东 江门"
+            "description": "",
+            "time": "",
+            "location": ""
         }
     ],
     "ProjectExperience": [
         {
-            "name": "silentor",
-            "name_link": "https://github.com/Jayin/silentor",
-            "title": "Developer",
-            "icon": "https://github.com/Jayin/silentor/raw/gh-pages/img/favicon.ico",
-            "description": "纯前端，基于markdown的博客",
-            "time": "2014.10 - 至今",
-            "location": ""
+            "name": "TD教育传媒",
+            "name_link": "http://tpwhcm.com/",
+            "title": "PHP Developer",
+            "icon": "",
+            "description": "一个专注整合地方家教力量的项目，含app，web端。采用tp框架。",
+            "time": "2016.02 - 至今"
         },
         {
-            "name": "resume",
-            "name_link": "https://github.com/Jayin/resume",
-            "title": "Developer",
-            "icon": "/resume/data/icon.png",
-            "description": "1分钟构建个人的在线简历 build on React",
-            "time": "2015.07 - 至今",
-            "location": ""
+            "name": "五邑大学学生宿舍管理系统",
+            "name_link": "http://xsc.wyu.cn:88/dorm/Login.php",
+            "title": "项目维护员",
+            "icon": "",
+            "description": "面向服务学生、教师的宿舍综合管理平台。包括学生保修、打印居住证明、投诉建议，宿舍安排分配模块，卫生检查模块，问卷调查等",
+            "time": "2015.10 - 至今"
+        },
+        {
+            "name": "五邑大学市场营销系官网",
+            "name_link": "http://yangxitian.cn/ci_marketing/",
+            "title": "PHP Developer",
+            "icon": "",
+            "description": "统一管理营销系课程和服务学生（选课以及作业提交）的一个网络教学平台。采用CI框架.",
+            "time": "2015.11 - 2016.1"
+        },
+        {
+            "name": "五邑大学经管学院监考安排系统",
+            "name_link": "http://yangxitian.cn/assignTest/",
+            "title": "PHP Developer",
+            "icon": "",
+            "description": "独自负责整个项目的开发，用于对监考数据的解析和处理。采用TP框架.",
+            "time": "2015.11 - 2015.12"
+        },
+        {
+            "name": "“邑大水行”微信端开发",
+            "name_link": "http://www.tuwenba.com/gzh/detail/424333/yidashuihang",
+            "title": "PHP Developer",
+            "icon": "",
+            "description": "五邑大学校内饮用水订送系统。采用tp框架",
+            "time": "2015.10 - 2015.1"
         }
     ]
 }
